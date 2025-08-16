@@ -36,13 +36,13 @@ Both Chinese and American online public opinion were divided into three stages:
 
 - **U.S. (Twitter)**:
 
-  - Stage 1 (Feb 1–Feb 22): Early stage, with low domestic concern and focus on international cases (frequent mentions of China).
+  - **Stage 1 (Feb 1–Feb 22)**: Early stage, with low domestic concern and focus on international cases (frequent mentions of China).
   
-  - Stage 2 (Feb 23–Mar 11): Rising concern as cases surged, states declared emergencies, and the first U.S. death occurred. Discussions centered on government and politics (keywords: “Trump,” “president”).
+  - **Stage 2 (Feb 23–Mar 11)**: Rising concern as cases surged, states declared emergencies, and the first U.S. death occurred. Discussions centered on government and politics (keywords: “Trump,” “president”).
   
-  - Stage 3 (after Mar 12): Following Trump’s Mar 13 national emergency declaration, discussions increased on “study and travel” and “home quarantine” as schools closed and restrictions grew (keywords: “cancel,” “work,” “lockdown”).
+  - **Stage 3 (after Mar 12)**: Following Trump’s Mar 13 national emergency declaration, discussions increased on “study and travel” and “home quarantine” as schools closed and restrictions grew (keywords: “cancel,” “work,” “lockdown”).
   
-  - Sentiment: Initially negative, then gradually positive and stable. Early negativity was driven by “international pandemic” and “U.S. government” topics, but as government measures were introduced, sentiment improved.
+  - **Sentiment**: Initially negative, then gradually positive and stable. Early negativity was driven by “international pandemic” and “U.S. government” topics, but as government measures were introduced, sentiment improved.
 
 
 ### Conclusions
